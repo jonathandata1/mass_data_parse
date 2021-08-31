@@ -30,5 +30,8 @@ sudo apt install pup
 pip3 install termdown
 ```
 
+## Usage
 
+> Add this script in any directory you want and run it. The end result will give you an output.txt file
+> Enjoy!
 
